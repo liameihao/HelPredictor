@@ -75,5 +75,5 @@ Chih-Chung Chang and Chih-Jen Lin, LIBSVM : a library for support vector machine
 
 **CV2**
 
-Brennecke, P.*, et al.* Accounting for technical noise in single-cell RNA-seq experiments. *Nature methods* 2013;10(11):1093-1095
+Brennecke, P., S. Anders, J. K. Kim, A. A. Kołodziejczyk, X. Zhang, V. Proserpio, B. Baying, V. Benes, S. A. Teichmann and J. C. Marioni (2013). "Accounting for technical noise in single-cell RNA-seq experiments." Nature methods **10**(11): 1093-1095.
 
