@@ -1,4 +1,4 @@
-name: testhelpredictor
+name: helpredictor
 channels:
   - conda-forge
   - defaults
