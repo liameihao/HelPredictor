@@ -63,7 +63,8 @@ python HelPredictor.py --method pca --classifier lr -i train.csv
 
 ## Citation
 **HelPredictor**
-Liang P, Zheng L, Long C, et al. HelPredictor models single-cell transcriptome to predict human embryo lineage allocation[J]. Briefings in Bioinformatics, 2021, 22(6): bbab196 (https://doi.org/10.1093/bib/bbab196).
+
+**Liang P**, Zheng L, Long C, et al. HelPredictor models single-cell transcriptome to predict human embryo lineage allocation[J]. Briefings in Bioinformatics, 2021, 22(6): bbab196 (https://doi.org/10.1093/bib/bbab196).
 
 ### Feature selection method
 
