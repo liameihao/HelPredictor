@@ -1,10 +1,6 @@
 # HelPredictor
-
-### Introduction
-
-
-
-### Quick Start
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Quick Start
 
 1. The HelPredictor tools package is written in Python. It is recommended to use [conda](https://www.anaconda.com/download/) to manage python packages.
 
@@ -24,9 +20,9 @@
 
 
 
-### Usage
+## Usage
 
-#### Command line
+### Command line
 
 ```bash
 usage: HelPredictor.py [-h] -i INPUT_TRAIN [--method {cv2,pca,fscore}] [--start START] [--end END] [--step STEP] [--njobs NJOBS] [--classifier {svm,rf,gnb,lr}]
@@ -52,7 +48,7 @@ optional arguments:
 
 ```
 
-#### Example
+### Example
 
 ```bash
 # F-score + SVM(Support Vector Machine)
@@ -65,9 +61,11 @@ python HelPredictor.py --method pca --classifier lr -i train.csv
 
 
 
-### Citation
+## Citation
+**HelPredictor**
+Liang P, Zheng L, Long C, et al. HelPredictor models single-cell transcriptome to predict human embryo lineage allocation[J]. Briefings in Bioinformatics, 2021, 22(6): bbab196 (https://doi.org/10.1093/bib/bbab196).
 
-
+### Feature selection method
 
 **F-score**
 
